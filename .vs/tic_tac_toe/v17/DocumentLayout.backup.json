@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|tic_tac_toe||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104F0C50-274A-477E-8D7B-5125D9585499}|Assignment_1\\tic_tac_toe.csproj|d:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104F0C50-274A-477E-8D7B-5125D9585499}|Assignment_1\\tic_tac_toe.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104F0C50-274A-477E-8D7B-5125D9585499}|Assignment_1\\Assignment_1.csproj|d:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\assignment_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104F0C50-274A-477E-8D7B-5125D9585499}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104F0C50-274A-477E-8D7B-5125D9585499}|Assignment_1\\tic_tac_toe.csproj|d:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\assignment_1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tic_tac_toe",
+              "DocumentMoniker": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\tic_tac_toe.csproj",
+              "RelativeDocumentMoniker": "Assignment_1\\tic_tac_toe.csproj",
+              "ToolTip": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\tic_tac_toe.csproj",
+              "RelativeToolTip": "Assignment_1\\tic_tac_toe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T12:19:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:19:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Form1.cs",
+              "ToolTip": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_pink-sha-human_computer_interface_3104\\Assignment_1\\Form1.cs",
+              "RelativeToolTip": "Assignment_1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:28:55.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
